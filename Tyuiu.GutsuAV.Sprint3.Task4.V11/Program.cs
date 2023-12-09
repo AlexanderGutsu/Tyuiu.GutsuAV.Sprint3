@@ -29,7 +29,7 @@ namespace Tyuiu.GutsuAV.Sprint3.Task4.V11
 
             int startValue = -5;
             int stopValue = 5;
-
+            
             Console.WriteLine("Старт шага = " + startValue);
             Console.WriteLine("Конец шага =  " + stopValue);
 
